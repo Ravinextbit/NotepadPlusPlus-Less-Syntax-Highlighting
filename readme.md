@@ -1,7 +1,5 @@
 # LESS Syntax Highlighting for Notepad++
 
-==========
-
 * [About](#about)
 * [Use](#how-to-use)
 * [Screenshot](#screenshot)
